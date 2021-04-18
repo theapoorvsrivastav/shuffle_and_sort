@@ -3,6 +3,10 @@ body {
     background-color: #EFEFEF;
 }
 
+p{
+    text-align: center;
+}
+
 .card-container {
     display: grid;
     grid-template-columns: auto auto auto;
